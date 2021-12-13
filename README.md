@@ -8,6 +8,6 @@ Due to my background as a photographer and music composer, I found myself being 
 
 Now, I love to create aesthetic and responsive websites using modern technologies.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdavhen&layout=compact&theme=cobalt&text_color=53A98A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timdavhen&layout=compact&theme=radical&text_color=ffffff)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timdavhen&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timdavhen&theme=radical)
